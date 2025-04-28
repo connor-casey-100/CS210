@@ -1,1 +1,3 @@
 # CS250
+
+Interpreting user needs starts with active listening and asking clarifying questions to fully understand the problems users are facing. Creating "user stories" helps because it helps frame the needs from the user's perspective. This helps to keep the focus on delivering value. When I approach developing programs, I try to start small by building a basic version that works and then adding features later. I hope to incorporate Agile practices like regular retrospectives and sprint planning to stay flexible and continuously improve. Being a good team member in software development means communicating openly, being reliable, respecting other peoples' ideas, and focusing on how to help the whole team succeed.
